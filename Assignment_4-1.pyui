@@ -1,0 +1,266 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{30, 13}, {192, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "career_button_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Click me for the Career",
+          "uuid" : "F6F15CA1-21CE-4E40-B27E-C76F843F8734",
+          "class" : "Button",
+          "name" : "career_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{30, 64}, {306, 28}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "career_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "A325FDE9-57A1-4141-A3BB-6B905CC3EBF7",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{30, 93}, {392, 121}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "description_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "69465C72-5BC5-4441-8C1E-12B510119339",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 15,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{30, 222}, {392, 100}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "requirements_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "A792E89F-54BC-4A21-AA5B-80779B2C9A60",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{30, 330}, {392, 64}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "growth_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "CBD7FB61-94BD-47CA-B006-D83273CE4005",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{30, 402}, {392, 39}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "salary_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "4BBF9F8A-E644-4E71-9585-8C21B7D68602",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{30, 449}, {392, 54}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "opinon_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "58B3862C-7E09-4398-A53A-0C8FE0660176",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{478, 13}, {223, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "education_button_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Click me for the education ",
+          "uuid" : "83E44547-B995-42DE-82D5-A9C71D265545",
+          "class" : "Button",
+          "name" : "education_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{478, 64}, {270, 28}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "school_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "8F64D7C6-38FB-4B21-82FC-EF81552DA44D",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{478, 149}, {392, 68}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "69465C72-5BC5-4441-8C1E-12B510119339",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "school_description_label",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{478, 100}, {281, 41}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "required_education_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "31E8E7E0-7B73-483B-B3BC-F80D633E9795",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{478, 225}, {398, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "time_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "75BDB6F5-555A-4C70-B57D-EB46CE3777B0",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{486, 279}, {173, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "religon_button_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "click me for the religon",
+          "uuid" : "30C711E5-BAE5-437E-A164-BE4B3B53AD43",
+          "class" : "Button",
+          "name" : "religon_button",
+          "font_size" : 15
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{486, 330}, {384, 204}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "religon_label",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "1972D51A-2FF8-489E-BDE5-5926B1C6C508",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "name" : "",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
